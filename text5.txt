@@ -1,2 +1,0 @@
-this is my direct pull request from git to eclipse
-hello world
